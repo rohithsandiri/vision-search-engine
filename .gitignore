@@ -24,3 +24,6 @@ crops/
 # OS
 .DS_Store
 PROJECT_STATE.md
+
+# Virtual environment
+.venv/
